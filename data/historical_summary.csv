@@ -1,0 +1,10 @@
+year,election_type,president,dem_pres_pct,rep_pres_pct,other_pres_pct,dem_electoral_allocated,rep_electoral_allocated,dem_house,rep_house,dem_house_vote_pct,rep_house_vote_pct,turnout_vep_pct,pres_source,house_source,turnout_source,house_unfilled,house_seats_source
+2008,Presidential,Barack Obama,52.9,45.7,1.4,365,173,257,178,52.9,42.4,62.2,ballotory,ballotpedia,ballotpedia_turnout,0,ballotpedia
+2010,Midterm,Barack Obama,,,,,,193,242,44.8,51.4,41.8,,ballotpedia,ballotpedia_turnout,0,ballotpedia
+2012,Presidential,Barack Obama,51.1,47.2,1.7,332,206,201,234,48.4,47.1,58.6,ballotory,ballotpedia,ballotpedia_turnout,0,ballotpedia
+2014,Midterm,Barack Obama,,,,,,188,247,44.9,50.7,36.7,,ballotpedia,ballotpedia_turnout,0,ballotpedia
+2016,Presidential,Donald Trump,48.2,46.2,5.6,232,306,194,241,47.3,48.3,60.1,ballotory,ballotpedia,ballotpedia_turnout,0,ballotpedia
+2018,Midterm,Donald Trump,,,,,,235,199,52.9,44.3,50.0,,ballotpedia,ballotpedia_turnout,1,FEC_2018
+2020,Presidential,Joe Biden,51.3,46.9,1.8,306,232,222,213,50.3,47.2,66.6,ballotory,ballotpedia,ballotpedia_turnout,0,FEC_2020
+2022,Midterm,Joe Biden,,,,,,213,222,47.3,50.0,46.2,,ballotpedia,ballotpedia_turnout,0,ballotpedia
+2024,Presidential,Donald Trump,48.3,49.8,1.9,226,312,215,220,47.2,49.7,63.9,ballotory,ballotpedia,ballotpedia_turnout,0,ballotpedia

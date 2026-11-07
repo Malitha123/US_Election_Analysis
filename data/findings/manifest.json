@@ -1,0 +1,45 @@
+{
+  "title": "Election Findings · documented survey and Census observations",
+  "updated": "2026-11-04",
+  "methodology": "2024 and prior-election published survey analyses, ACS 2024 foreign-born state estimates. Do not treat aggregated people as individual votes.",
+  "sources": [
+    {
+      "id": "circle_turnout",
+      "title": "CIRCLE 2024 Youth Turnout, revised April 2025",
+      "url": "https://circle.tufts.edu/latest-research/new-data-nearly-half-youth-voted-2024",
+      "note": "2024 estimated from voter files in 40 states; older estimates from CIRCLE."
+    },
+    {
+      "id": "circle_vote",
+      "title": "CIRCLE / AP VoteCast Youth Vote in 2024",
+      "url": "https://circle.tufts.edu/2024-election",
+      "note": "AP VoteCast survey youth voter preference and issue priorities; uncertainty around percentages."
+    },
+    {
+      "id": "pew_voters",
+      "title": "Pew Research Center Validated Voters (2016, 2020, 2024)",
+      "url": "https://www.pewresearch.org/politics/2025/06/26/voting-patterns-in-the-2024-election/",
+      "note": "Presidential vote choice by age, race and ethnicity, and naturalized citizenship. Turnout is validated, and vote choice is self-reported."
+    },
+    {
+      "id": "pew_turnout",
+      "title": "Pew 2024 validated-voter report",
+      "url": "https://www.pewresearch.org/politics/2025/06/26/behind-trumps-2024-victory-a-more-racially-and-ethnically-diverse-voter-coalition/",
+      "note": "Voter retention and participation. 2020 nonvoters who turned out in 2024."
+    },
+    {
+      "id": "acs_crs",
+      "title": "CRS report R48940, 2024 ACS 1-year DP02",
+      "url": "https://www.everycrsreport.com/reports/R48940.html",
+      "note": "All 50 states, DC and Puerto Rico; foreign-born residents, including noncitizens; 90% MOEs."
+    }
+  ],
+  "warnings": [
+    "Do not equate foreign-born population with voting electorate. Many foreign-born residents are not US citizens.",
+    "Do not equate ethnicity, immigrant status and naturalized status.",
+    "CIRCLE VoteCast and Pew validated-voter estimates use different survey methods; never pool counts or treat them as a single panel.",
+    "Age 18-29 at different elections is not a fixed Gen Z birth cohort.",
+    "Gen Z issue associations are not causal evidence of individuals deciding their votes.",
+    "The source observations cover through 2024 for these surveys, not 2026."
+  ]
+}

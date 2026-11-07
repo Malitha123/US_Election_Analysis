@@ -1,0 +1,6 @@
+chamber,year,state_po,contest,winner,winner_party,winner_votes,runner_up_votes,status,source_url,note
+house,2018,NC,9,,,,,no_certified_winner,https://www.fec.gov/documents/2705/federalelections2018.pdf,The general election was not certified. A new election filled the seat in 2019.
+house,2022,ME,2,Jared Golden,D,165136,146142,certified,https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/Rep-20to-20Congress-20Dist-202-20RCV-20results.pdf,Certified final ranked-choice round.
+senate,2020,GA,regular,Jon Ossoff,D,2269923,2214979,certified,https://sos.ga.gov/news/secretary-states-office-certifies-runoff-election-results,Deciding runoff held in January 2021.
+senate,2020,GA,special,Raphael Warnock,D,2289113,2195841,certified,https://www.fec.gov/documents/5675/federalelections2022.pdf,Deciding special-election runoff held in January 2021.
+senate,2022,AK,regular,Lisa Murkowski,R,136330,117534,certified,https://www.elections.alaska.gov/results/22GENR/US%20SEN.pdf,Certified final ranked-choice round.

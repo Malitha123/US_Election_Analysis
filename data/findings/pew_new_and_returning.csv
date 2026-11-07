@@ -1,0 +1,3 @@
+group,dem_pct,rep_pct,other_pct,source,source_url,population,note
+Young first-time voters,54,44,2,CIRCLE / AP VoteCast,https://circle.tufts.edu/2024-election,2024 voters ages 18–29 who were voting in a general election for the first time,Not equivalent to all first-time US voters.
+"Did not vote in 2020, voted in 2024",42,54,4,Pew validated-voter panel,https://www.pewresearch.org/politics/2025/06/26/behind-trumps-2024-victory-a-more-racially-and-ethnically-diverse-voter-coalition/,"All 2024 voters who did not vote in 2020, including new eligibles",A different population and survey from CIRCLE; comparisons across sources are descriptive only.

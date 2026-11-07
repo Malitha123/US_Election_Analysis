@@ -1,0 +1,53 @@
+{
+  "coverage": "US historical general election cycles 2008\u20132024",
+  "publisher": "MIT Election Data and Science Lab via ElectionData.dev",
+  "license": "CC0-1.0",
+  "official_contest_corrections": "../congress_corrections.csv",
+  "inputs": {
+    "county-president.csv": {
+      "url": "https://api.electiondata.dev/v1/county-president/download/county-president.csv",
+      "rows": 76694,
+      "sha256": "57185c4be209d8832a46a3bbcc13187669bfd0452da8c4502ab3be5cac6a293d",
+      "upstream_row_versions": [
+        "2026-02-25"
+      ]
+    },
+    "house-results.csv": {
+      "url": "https://api.electiondata.dev/v1/house-results/download/house-results.csv",
+      "rows": 33805,
+      "sha256": "38db9d28dc4d3e039de97c89aedb921ca5f57dd137baf527c937b76bc8760214",
+      "upstream_row_versions": [
+        "2025-09-10"
+      ]
+    },
+    "senate-results.csv": {
+      "url": "https://api.electiondata.dev/v1/senate-results/download/senate-results.csv",
+      "rows": 3945,
+      "sha256": "6aac8b2cb4a00ae0ec1fa2ae90dee93967dbfad974b7edd99b73cf8db90b2e18",
+      "upstream_row_versions": [
+        "2021-01-14",
+        "2023-09-20",
+        "2024-12-12",
+        "2025-11-20"
+      ]
+    }
+  },
+  "outputs": {
+    "house_winners.csv": {
+      "rows": 3889,
+      "sha256": "4f04f839ac14c597bbb593bc01503008996377aa5ec98974dd0c0a2654e6d830"
+    },
+    "presidential_counties.csv": {
+      "rows": 15783,
+      "sha256": "9b8214c93737b5f56b392270ceac30c39e252d030fb4fe8f87927f03fd0b0bc3"
+    },
+    "presidential_states.csv": {
+      "rows": 255,
+      "sha256": "3072a039cb533cea13b78e32e174eac51cfb4ceeaa5d5c56cc6241bb2ae161e5"
+    },
+    "senate_winners.csv": {
+      "rows": 315,
+      "sha256": "1a02d9eaf4d1dcc1065e87f88f0df847be00280f414c6530de33900b9daa82c3"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "year": 2008,
+    "label": "Financial crisis / presidential election",
+    "category": "Economy",
+    "question": "How did the financial crisis shape economic perceptions?",
+    "sources": [
+      "https://www.federalreservehistory.org/essays/great-recession-of-200709"
+    ]
+  },
+  {
+    "year": 2010,
+    "label": "Affordable Care Act / midterm",
+    "category": "Policy",
+    "question": "How did debates over healthcare reform and economic conditions intersect with turnout?",
+    "sources": [
+      "https://www.congress.gov/bill/111th-congress/house-bill/3590"
+    ]
+  },
+  {
+    "year": 2012,
+    "label": "Obama re-election",
+    "category": "Election",
+    "question": "Which geographic and demographic patterns persisted after 2008?",
+    "sources": [
+      "https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/"
+    ]
+  },
+  {
+    "year": 2014,
+    "label": "Midterm election",
+    "category": "Election",
+    "question": "How did a lower-turnout electorate relate to House and Senate outcomes?",
+    "sources": [
+      "https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/"
+    ]
+  },
+  {
+    "year": 2016,
+    "label": "Trump elected president",
+    "category": "Election",
+    "question": "Why did the Electoral College outcome differ from the nationwide popular vote?",
+    "sources": [
+      "https://www.archives.gov/electoral-college"
+    ]
+  },
+  {
+    "year": 2018,
+    "label": "Midterm election",
+    "category": "Election",
+    "question": "Which changes in turnout and geographic participation coincided with House seat changes?",
+    "sources": [
+      "https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/"
+    ]
+  },
+  {
+    "year": 2020,
+    "label": "COVID-19 / presidential election",
+    "category": "Public health",
+    "question": "How did changes in voting methods and participation coincide with the pandemic?",
+    "sources": [
+      "https://www.eac.gov/research-and-data/studies-and-reports"
+    ]
+  },
+  {
+    "year": 2022,
+    "label": "Inflation / midterm",
+    "category": "Economy",
+    "question": "How did measured economic conditions compare with voters' reported issue priorities?",
+    "sources": [
+      "https://fred.stlouisfed.org/"
+    ]
+  },
+  {
+    "year": 2024,
+    "label": "Trump elected for second term",
+    "category": "Election",
+    "question": "Which components reflect switching versus turnout differences?",
+    "sources": [
+      "https://www.pewresearch.org/politics/"
+    ]
+  }
+]

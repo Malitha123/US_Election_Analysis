@@ -1,0 +1,6 @@
+fastapi>=0.110,<1
+uvicorn>=0.25,<1
+pandas>=2.0,<3
+numpy>=1.26,<3
+requests>=2.31,<3
+statsmodels>=0.14,<1

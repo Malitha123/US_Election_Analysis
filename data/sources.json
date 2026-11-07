@@ -1,0 +1,155 @@
+[
+  {
+    "id": "mit_pres",
+    "name": "MIT Election Data and Science Lab, County Presidential Election Returns 2000–2024",
+    "url": "https://doi.org/10.7910/DVN/VOQCHQ",
+    "dataset": "County presidential candidates and returns",
+    "license": "CC0 1.0",
+    "status": "Bundled historical snapshot, refreshable with the importer",
+    "source_note": "MIT Election Data and Science Lab, 2018, County Presidential Election Returns 2000-2024, Harvard Dataverse, V20"
+  },
+  {
+    "id": "mit_house",
+    "name": "MIT Election Data and Science Lab, U.S. House 1976–2024",
+    "url": "https://doi.org/10.7910/DVN/IG0UN2",
+    "dataset": "District-level House races",
+    "license": "CC0 1.0",
+    "status": "Bundled historical snapshot, refreshable with the importer"
+  },
+  {
+    "id": "mit_senate",
+    "name": "MIT Election Data and Science Lab, U.S. Senate 1976–2024",
+    "url": "https://doi.org/10.7910/DVN/PEJ5QU",
+    "dataset": "Statewide Senate races",
+    "license": "CC0 1.0",
+    "status": "Bundled historical snapshot, refreshable with the importer"
+  },
+  {
+    "id": "electiondata",
+    "name": "ElectionData.dev API (redistribution of MIT returns)",
+    "url": "https://electiondata.dev/",
+    "dataset": "Parquet and CSV downloads for elections",
+    "license": "MIT underlying CC0 1.0",
+    "status": "Bundled historical snapshot, refreshable with the importer"
+  },
+  {
+    "id": "ballotory",
+    "name": "Ballotory presidential election summaries",
+    "url": "https://ballotory.com/elections/",
+    "dataset": "2008–2024 presidential popular shares and allocated electoral votes",
+    "license": "Refer to source",
+    "status": "Bundled seed historical summary"
+  },
+  {
+    "id": "ballotpedia",
+    "name": "Ballotpedia, national U.S. House vote and seat share",
+    "url": "https://ballotpedia.org/Proportion_of_each_party%27s_national_U.S._House_vote_and_share_of_seats_won_in_U.S._House_of_Representatives_elections",
+    "dataset": "2008–2024 House seats and party vote shares",
+    "license": "Refer to source",
+    "status": "Bundled seed historical summary"
+  },
+  {
+    "id": "ballotpedia_turnout",
+    "name": "Ballotpedia, U.S. voter turnout",
+    "url": "https://ballotpedia.org/Voter_turnout_in_United_States_elections",
+    "dataset": "2008–2024 voting eligible turnout estimates",
+    "license": "Refer to source",
+    "status": "Bundled seed historical summary"
+  },
+  {
+    "id": "FEC",
+    "name": "Federal Election Commission",
+    "url": "https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/",
+    "dataset": "Official federal returns and verification",
+    "license": "Public US government",
+    "status": "Reference"
+  },
+  {
+    "id": "NARA",
+    "name": "National Archives Electoral College",
+    "url": "https://www.archives.gov/electoral-college/2024",
+    "dataset": "Electoral votes for 2024",
+    "license": "Public US government",
+    "status": "Reference"
+  },
+  {
+    "id": "FRED",
+    "name": "Federal Reserve Bank of St. Louis FRED",
+    "url": "https://fred.stlouisfed.org/",
+    "dataset": "Unemployment CPI interest rate consumer sentiment and state unemployment (optional)",
+    "license": "Check each individual series",
+    "status": "Data ingestion integration"
+  },
+  {
+    "id": "ACS",
+    "name": "US Census American Community Survey",
+    "url": "https://www.census.gov/programs-surveys/acs",
+    "dataset": "2024 ACS DP02 foreign-born state counts/share with 90% MOE; more demographic series planned",
+    "license": "Public US government",
+    "status": "2024 foreign-born state estimates now bundled; other ACS integrations remain planned"
+  },
+  {
+    "id": "CIRCLE_TURNOUT",
+    "name": "CIRCLE, Youth Voter Turnout (Apr 2025 revision)",
+    "url": "https://circle.tufts.edu/latest-research/new-data-nearly-half-youth-voted-2024",
+    "dataset": "2016, 2020, 2024 ages 18–29 eligible-youth turnout estimates",
+    "license": "Published statistics, cite original source",
+    "status": "Bundled curated statistics, methodology linked"
+  },
+  {
+    "id": "CIRCLE_VOTE",
+    "name": "CIRCLE / AP VoteCast, The Youth Vote 2024",
+    "url": "https://circle.tufts.edu/2024-election",
+    "dataset": "2024 youth subgroups, first-time youth voters and issue priorities",
+    "license": "Published statistics, cite original source",
+    "status": "Bundled curated statistics, methodology linked"
+  },
+  {
+    "id": "PEW_VALIDATED",
+    "name": "Pew Research Center, 2024 validated voter analysis",
+    "url": "https://www.pewresearch.org/politics/2025/06/26/voting-patterns-in-the-2024-election/",
+    "dataset": "Presidential vote choice by age, race and ethnicity, and naturalized citizenship, 2016–2024 where reported",
+    "license": "Published statistics, cite original source",
+    "status": "Bundled curated statistics, methods linked"
+  },
+  {
+    "id": "PEW_REENTRY",
+    "name": "Pew Research Center, 2024 turnout and voter panel",
+    "url": "https://www.pewresearch.org/politics/2025/06/26/behind-trumps-2024-victory-a-more-racially-and-ethnically-diverse-voter-coalition/",
+    "dataset": "2020 nonvoters returning in 2024, preference and turnout composition",
+    "license": "Published statistics, cite original source",
+    "status": "Bundled curated statistics, methods linked"
+  },
+  {
+    "id": "CRS_ACS",
+    "name": "Congressional Research Service, Foreign-Born Population by State (2024 ACS)",
+    "url": "https://www.everycrsreport.com/reports/R48940.html",
+    "dataset": "50 states, DC, PR foreign-born count and share including 90% survey margins of error",
+    "license": "U.S. government public data; source appropriately cited",
+    "status": "Bundled full jurisdiction-level state estimates"
+  },
+  {
+    "id": "FEC_2018",
+    "name": "Federal Election Commission, Federal Elections 2018",
+    "url": "https://www.fec.gov/documents/2705/federalelections2018.pdf",
+    "dataset": "2018 House seats won and election-result notes",
+    "license": "Public US government",
+    "status": "Used in historical summary"
+  },
+  {
+    "id": "FEC_2020",
+    "name": "Federal Election Commission, Federal Elections 2020",
+    "url": "https://www.fec.gov/documents/4227/federalelections2020.pdf",
+    "dataset": "2020 House seats won and election-result notes",
+    "license": "Public US government",
+    "status": "Used in historical summary"
+  },
+  {
+    "id": "NARA_2016",
+    "name": "National Archives, 2016 Electoral College",
+    "url": "https://www.archives.gov/electoral-college/2016",
+    "dataset": "Official presidential electoral votes cast in 2016",
+    "license": "Public US government",
+    "status": "Used in the briefing"
+  }
+]
